@@ -11,3 +11,9 @@ Stats Jam Sessions (@Danilo Bzdoks Lab)
 
 ##	 Technical Topics
 - Git: Introduction to the home of code
+
+## Structure
+
+|notebooks          <- Jupyter notebooks <br>
+├── images          <- Ressources of JNs <br>
+│   <br>
