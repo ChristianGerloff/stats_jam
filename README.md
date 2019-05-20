@@ -3,7 +3,7 @@ Stats Jam Sessions (@Danilo Bzdoks Lab)
 
 ##	 Linear Models
 - Gaussianity: The mother of distributions
-- Partial coherence: Confounds, multiple regression and Cholesky Decomposition
+- Partial correlation: Confounds, multiple regression and Cholesky Decomposition
 - Interaction terms (coming soon)
 
 ##  Dimensionality Reduction Methods
