@@ -4,7 +4,7 @@ Stats Jam Sessions (@Danilo Bzdoks Lab)
 ##	 Linear Models
 - Gaussianity: The mother of distributions
 - Partial correlation: Confounds, multiple regression and Cholesky Decomposition
-- Interaction terms (coming soon)
+- Missing Data
 
 ##  Dimensionality Reduction Methods
 - canonical correlation analysis (coming soon)
